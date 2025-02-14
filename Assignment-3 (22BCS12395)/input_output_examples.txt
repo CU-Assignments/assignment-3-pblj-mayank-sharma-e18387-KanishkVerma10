@@ -1,0 +1,21 @@
+### Input/Output Examples
+
+#### Problem 1: Square Root Calculation
+**Input:**  
+Enter a number: 12395 
+**Output:**  
+Square root: 111.33283433021904
+
+#### Problem 2: ATM Withdrawal System
+**Input:**  
+Enter PIN: 12395  
+Withdraw Amount: 7000  
+**Output:**  
+Error: Insufficient balance. Current Balance: 5000
+
+#### Problem 3: University Enrollment System
+**Input:**  
+Enroll in Course: Advanced Java  
+Prerequisite: Core Java  
+**Output:**  
+Error: PrerequisiteNotMetException - Complete Core Java before enrolling in Advanced Java.
